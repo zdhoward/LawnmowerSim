@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{6a591180-ee9b-425c-9652-85321457a31c}">
+        <property name="assetPath">
+            <value>Player/Footsteps/LS_audio_oneshot_Player_Footstep06.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.67500000000000004</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{ac06d931-d0c5-40b5-813b-68035c52c80c}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c5cbc1f7-97ef-4563-b47d-22d37a3de8c4}">
+        <property name="assetPath">
+            <value>Monsters/Monster01/LS_audio_oneshot_Monster01_Ambience.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.2</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{ac06d931-d0c5-40b5-813b-68035c52c80c}</destination>
+        </relationship>
+    </object>
+</objects>

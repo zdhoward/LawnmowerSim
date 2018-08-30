@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{3a419093-4ca2-4ab9-a35d-9603d4fb1811}">
+        <property name="assetPath">
+            <value>Lawn/LS_audio_loop_Lawn_Destroyed.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.52500000000000002</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{ac06d931-d0c5-40b5-813b-68035c52c80c}</destination>
+        </relationship>
+    </object>
+</objects>
